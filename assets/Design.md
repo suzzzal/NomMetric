@@ -72,3 +72,6 @@ It **does not** contain any details regarding visual designs yet.
 **Design Link:** https://www.figma.com/design/MHvNzOcN0nL1l7vn2tVscm/Cupid-Arrow-Dating-App--iOS-Android-UI-UX--Community-?node-id=0-1&t=SoXFZG9JW4jyBY6m-1 
 **Notes:** The design included logo and splash screen which is minimal and professional, no AI used. 
 
+ **Contributor:** Sanchita Agte
+ **Design Link:** https://www.figma.com/design/hkttHtqGNK3SHknPOnfPck/Untitled?node-id=0-1&t=0yj5slRxGifJy0cS-1 
+ **Notes:** login and register screens, placeholder for name of app
