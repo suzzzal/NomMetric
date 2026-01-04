@@ -35,5 +35,6 @@
 | Chithra R | Chithra582 | CIT | 24CS016 | 1 |
 | Deepali Kumari | deepali-kumari-iitp | IIT Patna | IITP002556 | 1 |
 | sujal kshatri| suzzzal | NITRR | 241096 |1|
+| Manvi Mishra| manvimishra15 | BV | BTBTC24098 |1|
 <!-- ADD ABOVE THIS-->
 <!--example |P.Diddy | KoveLids |Reyansh College| IIT2024069| 0|>
